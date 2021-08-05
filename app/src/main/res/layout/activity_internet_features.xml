@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ii"
+    tools:context=".Internet_Features">
+
+    <Button
+        android:id="@+id/button59"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="173dp"
+        android:layout_marginEnd="145dp"
+        android:text="BROWSER APP" />
+
+    <Button
+        android:id="@+id/button60"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="255dp"
+        android:layout_marginEnd="123dp"
+        android:text="REAL TIME DATABASE" />
+
+    <Button
+        android:id="@+id/button61"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginEnd="166dp"
+        android:layout_marginBottom="335dp"
+        android:text="GMAIL" />
+
+    <Button
+        android:id="@+id/button62"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="166dp"
+        android:layout_marginBottom="246dp"
+        android:text="OTP" />
+
+    <Button
+        android:id="@+id/button63"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="151dp"
+        android:layout_marginBottom="158dp"
+        android:text="QUIZ GAME" />
+
+    <Button
+        android:id="@+id/button64"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="63dp"
+        android:layout_marginBottom="70dp"
+        android:text="BACK" />
+
+    <Button
+        android:id="@+id/button65"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="31dp"
+        android:layout_marginBottom="66dp"
+        android:text="LOG OUT" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="304dp"
+        android:layout_height="88dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="33dp"
+        android:text="Internet Features"
+        android:textColor="#F44336"
+        android:textSize="34sp"
+        android:textStyle="bold|italic" />
+</RelativeLayout>
